@@ -1,2 +1,2 @@
 # Graph-Algorithms
-Bu projede Dijkstra algoritması, Prims algoritması, Kruskal algoritması, Breadth First Searh algoritması gerçekleştirimi yapılmıştır ve c# ile geliştirilmiştir.
+In this project, Dijkstra algorithm, Prim's algorithm, Kruskal algorithm, Breadth First Search algorithm has been implemented. Developed in c#.
